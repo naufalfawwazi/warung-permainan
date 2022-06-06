@@ -10,7 +10,7 @@ Sebuah aplikasi desktop dengan antarmuka CLI yang dibuat menggunakan bahasa pemr
 Pemrograman Berorientasi Objek
 
 ### Cara penggunaan
-[![Video penjelasan](https://drive.google.com/uc?export=download&id=1XIijqfx6kbrRIrOcddEzNqzTDo23s--l)](https://www.youtube.com/watch?v=LgeQR3sFiRI)
+[![Video penjelasan](https://drive.google.com/uc?export=download&id=1XIijqfx6kbrRIrOcddEzNqzTDo23s--l)](https://youtu.be/9U8pD2EXhzw)
 
 ### Lampiran
 ![Lampiran 1](https://drive.google.com/uc?export=download&id=1G1e6C7eVuoYNZBGOFTsmGbWgAzKz2Iuw)
